@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("hello world\n");
+    printf("Hello again, world!\n");
 }
 
 // This is a new comment!
